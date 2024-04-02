@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "secure-coding-in-software-engineering"
+version = "0.1.0"
+description = "Introductory coursework for learning secure coding in software engineering."
+authors = ["Syed Mohammad Ibrahim <8592115+iamibi@users.noreply.github.com>"]
+license = "Creative Common License"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[tool.poetry.group.dev.dependencies]
+pre-commit = "^3.7.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.codespell]
+count = true
+quiet-level = 3
