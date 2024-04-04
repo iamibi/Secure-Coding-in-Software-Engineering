@@ -32,19 +32,7 @@ Throughout this course, you will achieve the following learning objectives:
     </p>
 </div>
 
-<style>
-.info-box {
-    background-color: #d1ecf1; /* Light blue background */
-    border: 1px solid #bee5eb; /* Light border */
-    border-radius: 5px; /* Rounded corners */
-    padding: 15px; /* Padding inside the box */
-    margin-bottom: 15px; /* Space below the box */
-    color: #0c5460; /* Darker text color */
-}
-.info-box p {
-    margin: 0; /* Remove default paragraph margin */
-}
-</style>
+<link rel="stylesheet" type="text/css" href="scripts/styles.css">
 
 ### What You Will Gain
 
@@ -77,19 +65,7 @@ C#, Python, etc., although the concepts discussed are applicable to any modern-d
     </p>
 </div>
 
-<style>
-.warning-box {
-    background-color: #fff3cd; /* Yellow background */
-    border: 1px solid #ffeeba; /* Light border */
-    border-radius: 5px; /* Rounded corners */
-    padding: 15px; /* Padding inside the box */
-    margin-bottom: 15px; /* Space below the box */
-    color: #856404; /* Darker text color */
-}
-.warning-box p {
-    margin: 0; /* Remove default paragraph margin */
-}
-</style>
+<link rel="stylesheet" type="text/css" href="scripts/styles.css">
 
 ### Understanding Vulnerabilities
 
