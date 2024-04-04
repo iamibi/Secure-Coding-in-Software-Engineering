@@ -87,3 +87,11 @@ In addition to the core concepts, the course will delve into the following areas
 The course is licensed under Creative Commons "Share Alike" license. https://creativecommons.org/licenses/by-sa/3.0/
 
 The course is derived from Introduction to Secure Software Engineering class by Gananand Kini et al.
+
+Check the LICENSE for more details.
+
+# Contribute
+
+To suggest updates and/or contribute to the chapters, please use the `Issues` section to outline what the change(s)
+is/are going to be about. Then, create a `Pull Request` derived from the `Issue` that was created. After the review, the
+changes will be merged.
