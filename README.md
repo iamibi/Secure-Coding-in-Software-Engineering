@@ -26,13 +26,8 @@ Throughout this course, you will achieve the following learning objectives:
 -   Develop the ability to explain weaknesses in software systems.
 -   Apply defenses to remediate software exploits and vulnerabilities.
 
-<div class="info-box">
-    <p>
-        <strong>Note:</strong> This course will not cover topics such as anti-virus technology, hacking, or advanced exploitations. While relevant aspects of software design and architecture may be highlighted, they are not the primary focus.
-    </p>
-</div>
-
-<link rel="stylesheet" type="text/css" href="scripts/styles.css">
+> _**Note**_ <br> This course will not cover topics such as anti-virus technology, hacking, or advanced exploitations.
+> While relevant aspects of software design and architecture may be highlighted, they are not the primary focus.
 
 ### What You Will Gain
 
@@ -59,13 +54,8 @@ This course is structured into multiple chapters, each covering different areas 
 and security. Throughout the course, relevant code references will be provided in various programming languages such as
 C#, Python, etc., although the concepts discussed are applicable to any modern-day programming language.
 
-<div class="warning-box">
-    <p>
-        <strong>Warning:</strong> Make sure to follow the course in sequence, as every chapter (except the introduction) is dependent on the previous chapter's knowledge.
-    </p>
-</div>
-
-<link rel="stylesheet" type="text/css" href="scripts/styles.css">
+> _**Warning!!!**_ <br> Make sure to follow the course in sequence, as every chapter (except the introduction) is
+> dependent on the previous chapter's knowledge.
 
 ### Understanding Vulnerabilities
 
