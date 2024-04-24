@@ -1,11 +1,24 @@
 # Secure Coding in Software Engineering
 
-## Introduction
-
 Welcome to Secure Coding in Software Engineering, a comprehensive course designed to equip you with essential knowledge
 and skills in securing software systems. In today's interconnected world, where software vulnerabilities pose
 significant risks to organizations and individuals, understanding software security principles is paramount. This course
 is crafted to provide you with a solid foundation in software security concepts, methodologies, and best practices.
+
+## Acknowledgement
+
+I would like to thank Prof. Gananand Kini for his efforts and contributions in creating the original course from which
+this course is derived from. List of sources from where the course derived from:
+
+-   Prof. Gananand Kini's coursework.
+-   Title: Secure Software Design and Programming: Class Materials
+    -   Author: Prof. David A. Wheeler
+    -   Source: https://dwheeler.com/secure-class/index.html
+    -   License: CC BY-SA 3.0
+-   Title: Introduction to Secure Coding
+    -   Author: Andrew Buttner and Larry Shields
+    -   Source: https://opensecuritytraining.info/IntroSecureCoding.html
+    -   License: CC BY-SA 3.0
 
 ## Learning Objectives
 
@@ -48,11 +61,16 @@ traditional software engineering classes, which often overlook security aspects.
 academic curriculums, this course provides you with practical knowledge and skills essential for securing software
 systems in today's digital landscape.
 
+> _**INFO**_ <br> The course will use the [CWE-699](https://cwe.mitre.org/data/definitions/699.html) as base view which
+> is focused on the security of a software. There are other views, which can be explored
+> [here](https://cwe.mitre.org/data/index.html) but are not within the scope of this course.
+
 ## Course Structure
 
 This course is structured into multiple chapters, each covering different areas and topics within software development
 and security. Throughout the course, relevant code references will be provided in various programming languages such as
-C#, Python, etc., although the concepts discussed are applicable to any modern-day programming language.
+C#, Python, etc., although the concepts discussed are applicable to any modern-day programming language. There will be
+references to relevant excerpts and images and reading material will be provided as references as and when required.
 
 > _**Warning!!!**_ <br> Make sure to follow the course in sequence, as every chapter (except the introduction) is
 > dependent on the previous chapter's knowledge.
