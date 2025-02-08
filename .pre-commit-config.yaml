@@ -31,14 +31,14 @@ repos:
           - id: prettier
 
     - repo: https://github.com/codespell-project/codespell
-      rev: "193cd7d27cd571f79358af09a8fb8997e54f8fff" # frozen: v2.3.0
+      rev: "63c8f8312b7559622c0d82815639671ae42132ac" # frozen: v2.4.1
       hooks:
           - id: codespell
             additional_dependencies:
                 - tomli
 
     - repo: https://github.com/python-poetry/poetry
-      rev: "c85477da8a610a87133299f996f8d8a593aa7bff" # frozen: 1.8.0
+      rev: "bd500dd3bdfaec3de6894144c9cedb3a9358be84" # frozen: 2.0.1
       hooks:
           - id: poetry-check
             name: "Poetry Check"
@@ -46,8 +46,6 @@ repos:
                 - "--lock"
           - id: poetry-lock
             name: "Poetry Lock"
-            args:
-                - "--no-update"
           - id: poetry-install
             name: "Poetry Install"
             args:

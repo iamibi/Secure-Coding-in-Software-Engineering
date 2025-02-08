@@ -1,21 +1,27 @@
-[tool.poetry]
+[project]
 name = "secure-coding-in-software-engineering"
 version = "0.1.0"
 description = "Introductory coursework for learning secure coding in software engineering."
-authors = ["Syed Mohammad Ibrahim <8592115+iamibi@users.noreply.github.com>"]
-license = "Creative Common License"
+authors = [
+    {name = "Syed Mohammad Ibrahim",email = "8592115+iamibi@users.noreply.github.com"}
+]
+license = {text = "Creative Common License"}
 readme = "README.md"
+requires-python = "^3.12"
+dependencies = [
+]
 
-[tool.poetry.dependencies]
-python = "^3.12"
 
-
-[tool.poetry.group.dev.dependencies]
-pre-commit = "^3.7.0"
+[tool.poetry.requires-plugins]
+poetry-plugin-export = ">=1.8"
+poetry-plugin-shell = ">=1.0.1"
 
 [build-system]
-requires = ["poetry-core"]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+pre-commit = "^4.1.0"
 
 
 [tool.codespell]

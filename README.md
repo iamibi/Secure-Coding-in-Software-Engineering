@@ -72,9 +72,6 @@ and security. Throughout the course, relevant code references will be provided i
 C#, Python, etc., although the concepts discussed are applicable to any modern-day programming language. There will be
 references to relevant excerpts and images and reading material will be provided as references as and when required.
 
-> _**Warning!!!**_ <br> Make sure to follow the course in sequence, as every chapter (except the introduction) is
-> dependent on the previous chapter's knowledge.
-
 ### Understanding Vulnerabilities
 
 To comprehend vulnerabilities within software systems, the course will employ a root cause analysis (RCA) approach,
